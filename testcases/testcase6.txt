@@ -1,0 +1,16 @@
+abcdefghijklmnopqrstuvwxyz0123456789 ,.-_@;:/\
+ (0|1|2|3|4|5|6|7|8|9)(0|1|2|3|4|5|6|7|8|9|-| )(0|1|2|3|4|5|6|7|8|9|-| )(0|1|2|3|4|5|6|7|8|9|-| )(0|1|2|3|4|5|6|7|8|9|-| )+
+i am a phd student at the group for theoretical computer science of the school of computer science
+and communication at the royal institute of technology. furthermore i am an employee of sics swedish ict.
+as part of the collaboration of both i am working on the formal verification of a
+security providing thin hypervisor for embedded systems in the prosper project.
+contact
+e-mail: oschwarz@kth.se 
+pgp: public key fingerprint: e190 59a1 5a97 8700 2b47 3479 5eff 45ae ae9c 48e2
+phone: 0046 72 2207954
+fax: 0046 8 751 7230 indicate me as recipent
+postal address: sics, box 1263, se-164 29 kista, sweden
+visit me at: kth, lindstedtsvagen 3, level 4, room 1446, stockholm, sweden, t-bana: tekniska hogskolan
+- or -
+sics, electrum building, floor b6, isafjordsgatan 22/kistagangen 16, 164 40 kista/stockholm, sweden, t-bana: kista
+sics webpage: sics.se/people/oliver-schwarz
